@@ -8,7 +8,6 @@ class SignInScreen extends StatelessWidget {
       body: Column(
         children: <Widget>[
           Expanded(
-            flex: 3,
             child: Container(
                 decoration: BoxDecoration(
                     image: DecorationImage(
